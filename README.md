@@ -1,5 +1,5 @@
 # MTLGJ2016
-Keep the corpse in its coffin in this two-players minigame, programmed with Unity for the 2016 Montreal Global Game Jam.
+Keep the corpse in its coffin in this two-players minigame, programmed with Unity for the 2016 Montreal Global Game Jam in a team of 3.
 
 The game can be played at https://ludovical.github.io/MTLGJ2016/ (note that the page may require a few minutes to load the WebGL player in the background).
 
